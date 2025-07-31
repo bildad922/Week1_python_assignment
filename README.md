@@ -22,4 +22,4 @@ A simple yet powerful command-line calculator written in Python with robust erro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bildad922/python-calculator.git
+   git clone  https://github.com/bildad922/Week1_python_assignment.git
